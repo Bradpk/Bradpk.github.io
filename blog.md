@@ -17,3 +17,4 @@
 ## **What is something about you that can be learned by reading this blog?**   🖥️
 
 <font size='2'> I am originally from New Zealand and moved here impulsively in 2019 after winning a green card in a lottery. My primary hobbies are playing guitar, rock climbing and just recently coding. One thing people may not know about me is that I use to work as a deckhand in the superyacht industry in Europe. </font>
+
