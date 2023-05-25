@@ -10,7 +10,7 @@
 
 ## **What are you excited or eager to learn more about?**   🖱️
 
-<font size='2'> The thing I am looking forward to the most is getting to the point where I have a big picture understanding of the entire process. Right now it feels like I am doing a jigsaw puzzle, not yet aware of the picture that will be created. I want to be able to create an app or interactive website from go to whoa! If I had to be more specific though, I'm looking forward to both **Javascript** and **Python** as they seem to be the nuts and bolts of coding. </font>
+<font size='2'> The thing I am looking forward to the most is getting to the point where I have a big picture understanding of the entire process. Right now it feels like I am doing a jigsaw puzzle, not yet aware of the picture that will be created. I want to be able to create an app or interactive website from go to whoa! If I had to be more specific though, I'm looking forward to both __Javascript__ and __Python__ as they seem to be the nuts and bolts of coding. </font>
 
 ![](https://www.christenseninstitute.org/wp-content/uploads/2019/04/Code-photo-800-x-400.jpg)
 
