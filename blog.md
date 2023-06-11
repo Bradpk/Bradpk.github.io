@@ -38,10 +38,10 @@
 ## **(WEEK 3)** ##
 
 ## **WWhat is the number one thing that held you back this week? Why?** ##
-<font size='2'>Definitely figuring out how to approach problem solving. I felt confident going into this week. My understanding of JavaScript syntax and what I'm looking at on the screen is coming together. Although I was cut down to size and learnt quickly with this weeks project that merely knowing and understanding syntax doesn't get you very far. I need to become much more methodical and calculated with how I approach future projects.</font>
+<font size='2'>Definitely figuring out how to approach problem-solving, I felt confident going into this week. My understanding of JavaScript syntax and what I'm looking at on the screen is coming together. Although I was cut down to size and felt a little dissapointed in myself after this weeks project. I realized that merely knowing and understanding syntax doesn't get you very far. I need to become much more methodical and calculated in how I approach future projects.</font>
 
 ## **What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?** ##
-<font size='2'>I would like to get a deeper knowledge of what bootstrap is capable of. Right now I have a preference to use standard CSS but I'm curious to see whether that will change once I'm more familiar with bootstrap.</font>
+<font size='2'>I would like to gain a deeper knowledge of what Bootstrap is capable of. Currently, I have a preference for using standard CSS, but I'm curious to see whether that will change once I'm more familiar with Bootstrap.</font>
 
 ## **What is your “Why”?** ##  
- <font size='2'>I'm a creative at my core. I enjoy the process of learning new skills, and then using those skills to craft something either I or other people may find useful, interesting or entertaining. I'd be lying if I said I'm driven by grandiose ideas of legacy or believing I'm going to have some big impact on the world. I figure I only get one life and I may as well fill it with things I find interesting. Programming has fallen into that catogory. </font>
+ <font size='2'>I'm a creative at my core. I enjoy the process of learning new skills and then using those skills to craft something that I or other people may find useful, interesting, or entertaining. I'd be lying if I said I'm driven by grandiose ideas of legacy or believing I'm going to have some big impact on the world. I figure I only get one life, and I may as well fill it with things I find interesting. Programming has fallen into that category.</font>
