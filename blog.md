@@ -1,4 +1,4 @@
-# **Awesome Inc Blog Post (Week 1)** # 
+# **Awesome Inc Blog Post (WEEK 1)** # 
 
 ![](https://images.yourstory.com/cs/wordpress/2018/09/Coding-SoloLearn.jpg)
 
@@ -18,7 +18,7 @@
 
 <font size='2'> I am originally from New Zealand and moved here impulsively in 2019 after winning a green card in a lottery. My primary hobbies are playing guitar, rock climbing and just recently coding. One thing people may not know about me is that I use to work as a deckhand in the superyacht industry in Europe. </font>
 
-## **(Week 2)** ##
+## **(WEEK 2)** ##
 
 ## **What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?** ##
 <font size='2'>The anology I have latched onto is that HTML is the builder, CSS is the artist and JavaScript is the wizard. They each play an important role in the creation of an app or webpage. </font>
@@ -34,4 +34,14 @@
   
 ## **How did you overcome challenges during Onboarding?** ##
 <font size='2'>I overcame the challenges by using a brute force attitude to time commitment. I was able to get through all the material by extending out the ammount of time I was studying. In the future I would like to hone in my efficiency when tackling new problems or material as to produce the greatest output I can muster in a timely manner that doesn't leave me exhausted. Work smarter not harder.</font>
-  
+
+## **(WEEK 3)** ##
+
+## **WWhat is the number one thing that held you back this week? Why?** ##
+<font size='2'>Definitely figuring out how to approach problem solving. I felt confident going into this week. My understanding of JavaScript syntax and what I'm looking at on the screen is coming together. Although I was cut down to size and learnt quickly with this weeks project that merely knowing and understanding syntax doesn't get you very far. I need to become much more methodical and calculated with how I approach future projects.</font>
+
+## **What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?** ##
+<font size='2'>I would like to get a deeper knowledge of what bootstrap is capable of. Right now I have a preference to use standard CSS but I'm curious to see whether that will change once I'm more familiar with bootstrap.</font>
+
+## **What is your “Why”?** ##  
+ <font size='2'>I'm a creative at my core. I enjoy the process of learning new skills, and then using those skills to craft something either I or other people may find useful, interesting or entertaining. I'd be lying if I said I'm driven by grandiose ideas of legacy or believing I'm going to have some big impact on the world. I figure I only get one life and I may as well fill it with things I find interesting. Programming has fallen into that catogory. </font>
