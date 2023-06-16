@@ -4,6 +4,10 @@
     margin-top: 10px;
   }
 
+  h1{
+    font-size: 30px;
+  }
+
   .contact-box2 {
     border: 1px solid #ccc;
     padding: 10px;
@@ -13,3 +17,13 @@
   .card{
     background-color: lightgrey;
   }
+
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+    margin: 0 auto;
+    background-color: white;
+    overflow: hidden;
+}
