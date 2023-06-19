@@ -45,3 +45,20 @@
 
 ## **What is your “Why”?** ##  
  <font size='2'>I'm a creative at my core. I enjoy the process of learning new skills and then using those skills to craft something that I or other people may find useful, interesting, or entertaining. I'd be lying if I said I'm driven by grandiose ideas of legacy or believing I'm going to have some big impact on the world. I figure I only get one life, and I may as well fill it with things I find interesting. Programming has fallen into that category.</font>
+
+
+## **(WEEK 4)** ##
+
+## **What did you learn about that helped you understand the development process?** ##
+<font size='2'>This week, the most valuable lesson I learned was the significance of strategizing before diving into a project. By approaching tasks in a calculated manner, you ultimately save time in the long run, even if it means delaying the actual coding process. This involves thoroughly analyzing the project, planning the logic, and outlining the implementation steps.</font>
+
+## **What does it mean to develop good code?** ##
+<font size='2'>I would say that high-quality code should prioritize readability. It should steer clear of unnecessary repetitions and be easily modifiable and reusable.</font>
+
+## **What does it mean to be a good developer?** ##
+<font size='2'>I believe a good developer possesses a solid understanding of the problem at hand and can break it down into clear and actionable steps for resolution. Equally important is the ability to collaborate effectively with other developers, creating an environment where problem-solving becomes a streamlined and enjoyable journey for the entire team.</font>
+
+## **What is one thing that programmers hate doing?** ##
+<font size='2'>As someone new to the world of programming, I am not yet familiar with the common frustrations experienced by programmers. However, I can easily imagine that debugging would fall into this category. The time-consuming nature of debugging leads me to believe that it's a safe assumption many programmers wouldn't have this type of work on the top of their list of favorite tasks.</font>
+
+
