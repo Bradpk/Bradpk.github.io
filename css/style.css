@@ -7,12 +7,13 @@
   }
 
   h1{
-    font-size: 30px;
+    font-size: 15px;
   }
 
   p{
-    font-size: 60px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-size: 50px;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
   }
 
   .card{
@@ -21,11 +22,41 @@
   }
 
   .profile-picture {
-    width: 300px;
-    height: 300px;
+    width: 360px;
+    height: 360px;
     border-radius: 50%;
     margin: 0 auto;
     background-color: white;
     overflow: hidden;
     margin-top: 30px;
+}
+
+.contact-box img:hover {
+    filter: brightness(0%); 
+}
+
+.contact-box img {
+   margin-bottom: 20px;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+
+.image-container {
+    position: relative;
+}
+
+.image-container::before {
+    content: "Hello";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.image-container:hover::before {
+    opacity: 0.2;
 }
