@@ -61,4 +61,8 @@
 ## **What is one thing that programmers hate doing?** ##
 <font size='2'>As someone new to the world of programming, I am not yet familiar with the common frustrations experienced by programmers. However, I can easily imagine that debugging would fall into this category. The time-consuming nature of debugging leads me to believe that it's a safe assumption many programmers wouldn't have this type of work on the top of their list of favorite tasks.</font>
 
+## **(WEEK 5)** ##
+
+## **What is pseudocode and how does it help with programming?** ##
+<font size='2'>Pseudocode is a term used to describe the process that programmers follow to outline the steps needed to solve problems in a project. It is written in a non-coding language, allowing programmers to understand what the code should do without focusing on syntax. This skill is highly valuable in becoming a proficient programmer as it goes beyond specific programming languages and can be utilized by programmers working with different languages. Pseudocode enables collaboration among programmers by providing a clear understanding of the logical flow and actions required to achieve desired outcomes.</font>
 
