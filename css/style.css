@@ -7,8 +7,57 @@
   }
 
   h1{
-    font-size: 15px;
+    font-size: 100px;
+    color: rgb(222, 222, 222);
+    text-align: center;
+    margin-top: 4%;
+    font-family:'Courier New', Courier, monospace
   }
+
+  h2{
+    font-size: 50px;
+    color: rgb(222, 222, 222);
+    text-align: center;
+    margin-top: 3%;
+    font-family:'Courier New', Courier, monospace
+  }
+
+  body{
+    margin: 0;
+  padding: 0;
+  height: 100%;
+  }
+
+  .city {
+    background-image: url(/img/photo-1617918781812-03f1bede89e1.jpg);
+    background-size: 1510px 860px;
+    background-repeat: no-repeat;
+    background-color: rgb(77, 77, 77);
+  background-blend-mode:multiply
+  }
+
+  nav ol {
+    display: flex;
+    background-color: black;
+    margin-top: 0%;
+    line-height: 3;
+    font-size: 25px;
+    width: 100%;
+    font-family:'Courier New', Courier, monospace;
+    align-content: center;
+}
+
+li {
+  width: 100%;
+  list-style-type: none;
+  text-align: center;
+}
+
+li a {
+  text-decoration: none;
+  color: rgb(222, 222, 222);
+}
+
 
   p{
     font-size: 50px;
