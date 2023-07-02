@@ -1,3 +1,5 @@
 About Me: 
 
-My name is Brad
+Born and raised in Auckland, New Zealand. I ventured to the United States in 2019 after the result of an impulsive decision to enter the green card lottery. Throughout my life, music has played a significant role, both as a passion and a career. I have dedicated much of my adult life to music production and music education. While my passion for music remains strong, I have discovered a new interest for programming which has ignited a desire to embark on a fresh career path in the technology sector as a programmer.
+
+I have always had a deep-rooted creativity within me. What excites me is the ability to utilize skills I have learnt to craft something that brings value, intrigue, or entertainment to myself and others. While I don't necessarily harbor grand ambitions or envision myself making a world-changing impact, I strongly believe in making the most of the one life we have. For me, that means immersing myself in pursuits that genuinely captivate my interest. Programming has effortlessly found its place in this realm of endeavors, allowing me to explore my creativity and continuously delve into intriguing possibilities.
