@@ -66,3 +66,15 @@
 ## **What is pseudocode and how does it help with programming?** ##
 <font size='2'>Pseudocode is a term used to describe the process that programmers follow to outline the steps needed to solve problems in a project. It is written in a non-coding language, allowing programmers to understand what the code should do without focusing on syntax. This skill is highly valuable in becoming a proficient programmer as it goes beyond specific programming languages and can be utilized by programmers working with different languages. Pseudocode enables collaboration among programmers by providing a clear understanding of the logical flow and actions required to achieve desired outcomes.</font>
 
+## **(WEEK 6)** ##
+
+## **Do you think JavaScript Frameworks and Libraries are easy or hard to use? Why?** ##
+<font size='2'>As of right now, I think they are hard to use. I do see how they will stream line the coding process in the long run but since I am still in the stages of learning how to work with react I found it more difficult than working with vanilla JavaScript.</font>
+
+## **What Frameworks or Libraries are you interested in learning more about?** ##
+<font size='2'>I'm not aware of most of the frameworks out there. Right now I would like to get comfortable in using the library we were introduced to this week which was React</font>
+
+## **Find one emerging JavaScript tool that you would like to learn more about or use in your final project.** ##
+<font size='2'>I am intending to do a final project that incorporates a library that allows me to produce audio that I can use to contruct aural training excercises for musicians. So I would like to explore which would be the best library for my project and how to use it to it's fullest extent.</font>
+
+
