@@ -77,4 +77,30 @@
 ## **Find one emerging JavaScript tool that you would like to learn more about or use in your final project.** ##
 <font size='2'>I am intending to do a final project that incorporates a library that allows me to produce audio that I can use to contruct aural training excercises for musicians. So I would like to explore which would be the best library for my project and how to use it to it's fullest extent.</font>
 
+## **(WEEK 7)** ##
+
+## **What are some similarities and differences you can see with JS and Python?** ##
+<font size='2'>Both programming languages exhibit a strikingly similar structure, encompassing a common set of data types,
+            conditional statements, and loops. However, a notable distinction lies in their syntax, where one language
+            employs indentation instead of curly braces for code block delineation.</font>
+
+## **If you had started with Python instead of JS, how do you think the Bootcamp would be different? Would you have benefited?** ##
+<font size='2'>While acknowledging the Python language's intuitive syntax, I believe that learning JavaScript, with its
+            meticulous nature, fosters a greater emphasis on code accuracy and precision. This emphasis on accuracy
+            cultivates a more thorough approach to coding, which can be highly beneficial in developing robust and
+            error-free software solutions.</font>
+
+## **Think of a project or tech based tool that you use often and think about what the database structure might look like for it. Do you feel like you have a better understanding of how it works now and could you see yourself enjoying building something like that in the future?** ##
+<font size='2'>An app that I use a lot is the "guitartuna" app which provides a guitar tuner and metronome which I use for
+            teaching. I could imagine the data structure would consist of <br> Tuning ID: A unique identifier for each
+            tuning.
+            Name: The name of the tuning, "Standard," "Drop D," "Half Step Down," etc.
+            Notes: The specific notes corresponding to each string in the tuning.
+            Chord ID: A unique identifier for each chord.
+            Name: The name of the chord, like "C Major," "G7," "Dm," etc.
+            Notes: The individual notes that make up the chord.
+            Audio: Audio representation of the chord for playback.
+            <br>
+            I'm planning on building a similiar app for my cap stone project.</font>
+
 
