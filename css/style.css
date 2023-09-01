@@ -5,6 +5,10 @@
 /* .projectPage{
 } */
 
+img{
+  margin-top: 10px;
+}
+
 .contact-box {
     padding: 10px;
     margin-top: 10px;
@@ -103,6 +107,10 @@
     width: 100%;
     font-family:'Courier New', Courier, monospace;
     align-content: center;
+}
+
+nav a:hover {
+  font-weight: bold; 
 }
 
 li {
