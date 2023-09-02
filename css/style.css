@@ -2,9 +2,6 @@
   background-color: black
 }
 
-/* .projectPage{
-} */
-
 img{
   margin-top: 10px;
 }
@@ -18,7 +15,7 @@ img{
   }
 
   h1{
-    font-size: 100px;
+    font-size: 80px;
     color: rgb(222, 222, 222);
     text-align: center;
     margin-top: 4%;
@@ -26,7 +23,7 @@ img{
   }
 
   h2{
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(222, 222, 222);
     text-align: center;
     margin-bottom: 35%;
@@ -117,6 +114,7 @@ li {
   width: 100%;
   list-style-type: none;
   text-align: center;
+  font-size: 20px;
 }
 
 li a {
