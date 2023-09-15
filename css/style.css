@@ -235,3 +235,7 @@ nav ul.navbar-nav li.nav-item a.nav-link {
   width: 100%;
 }
 
+.navbar-toggler-icon{
+  font-size: 35px;
+}
+
